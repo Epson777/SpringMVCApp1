@@ -18,9 +18,13 @@
       <change beforePath="$PROJECT_DIR$/../MySpringMVCApp/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySpringMVCApp/src/main/webapp/WEB-INF/index.jsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySpringMVCApp/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/web/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/controller/SecondController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/first/goodbye.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/first/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/second/exit.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-course-mvc/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-course-mvc/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-course-mvc/.idea/vcs.xml" beforeDir="false" />
@@ -42,14 +46,27 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Epson777"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Epson777/SpringMVCApp1.git",
+    "accountId": "df93c443-a1f8-4193-93f7-b35c5492f91e"
+  }
+}]]></component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -61,6 +78,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="31MSvecXkfuK0YkdLtp7xbqDNLG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -92,6 +112,7 @@
   </component>
   <component name="RunManager">
     <configuration name="MyTomcatServer" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.108" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/cars" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="SpringMVCApp1:war exploded">
@@ -200,7 +221,7 @@
       <workItem from="1755341167477" duration="631000" />
       <workItem from="1755440010010" duration="3990000" />
       <workItem from="1755444060235" duration="4629000" />
-      <workItem from="1755506137109" duration="7000" />
+      <workItem from="1755506137109" duration="11404000" />
     </task>
     <servers />
   </component>
