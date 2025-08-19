@@ -20,11 +20,10 @@
       <change beforePath="$PROJECT_DIR$/../MySpringMVCApp/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/controller/SecondController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/first/goodbye.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/first/hello.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/second/exit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/controller/CarsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/controller/CarsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/model/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/model/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/service/CarService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/dao/CarDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/service/CarServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/dao/CarDaoImp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-course-mvc/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-course-mvc/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-course-mvc/.idea/vcs.xml" beforeDir="false" />
@@ -221,7 +220,7 @@
       <workItem from="1755341167477" duration="631000" />
       <workItem from="1755440010010" duration="3990000" />
       <workItem from="1755444060235" duration="4629000" />
-      <workItem from="1755506137109" duration="11404000" />
+      <workItem from="1755506137109" duration="18431000" />
     </task>
     <servers />
   </component>
